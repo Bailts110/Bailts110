@@ -10,8 +10,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bailts110&label=Visitors&color=0e75b6&style=flat" alt="Bailts110" />
+  
   <a href="https://github.com/Bailts110?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bailts110"/>
+  </a>
   <a href="https://github.com/Bailts110">
     <img src="https://img.shields.io/github/followers/Bailts110?label=Followers&style=social" alt="Followers"/>
   </a>
