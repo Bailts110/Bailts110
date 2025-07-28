@@ -55,7 +55,7 @@
 
 ## 🌱 Learning
 
-- 🅰️ **Front-End Development:** React, HTML, CSS, Tailwind, JavaScript, TypeScript
+-  **Front-End Development:** React, HTML, CSS, Tailwind, JavaScript, TypeScript
 - 🌐 **Backend Development:** Nodejs, Express, RESTful APIs, MongoDB
 - 📚 **Current Courses:**
 
